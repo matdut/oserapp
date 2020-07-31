@@ -7,7 +7,7 @@ const path = require("path");
 //const dotenv = require('dotenv').config();
 
 // setting port
-app.set('port',3333);
+app.set('port',21516);
 
 //Middlewares
 //app.use(cors());
